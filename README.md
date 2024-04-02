@@ -57,20 +57,21 @@ Le comité de sélection sélectionnera le prestataire sur la base des critères
 * Le prix.
 
 ## 4. Calendrier
+1. Remise des offres: [Date]
 
-**Remise des offres**: [Date]
-**Audition des candidats**: [Date]
-**Notification du prestataire sélectionné**: [Date]
+2. Audition des candidats: [Date]
+
+3. Notification du prestataire sélectionné: [Date]
 
 ## 5. Contact
 
 Pour toute information relative à cet appel d'offres, veuillez contacter :
 
-**Nom**: [Mohamed TOBJI]
+* Nom: Mohamed TOBJI
 
-**Fonction**: [Director]
+* Fonction: Director
 
-**Email**: [mohamed.tobji@lycee-jeanrostand.fr]
+* Email: mohamed.tobji@lycee-jeanrostand.fr
 
 
 
