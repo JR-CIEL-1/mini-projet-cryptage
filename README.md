@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://youtu.be/a0vRj8_Lh-8?si=V7ermoXHiJJivlfH">
-    <img src="https://i.ytimg.com/an_webp/a0vRj8_Lh-8/mqdefault_6s.webp?du=3000&sqp=CMGZr7AG&rs=AOn4CLAuwAM8e4ogeBmHJKwGIzgzYqSYHA" alt="Nom de votre image">
+    <img src="https://i.ytimg.com/an_webp/a0vRj8_Lh-8/mqdefault_6s.webp?du=3000&sqp=CJT41bAG&rs=AOn4CLA5ONnCw9Qy8EkCY5no6icSZxJcCA" alt="vidéo appel d'offre">
   </a>
   <p><em>Vidéo : Cahier des charges</em></p>
 </div>
