@@ -57,21 +57,25 @@ Le comité de sélection sélectionnera le prestataire sur la base des critères
 * Le prix.
 
 ## 4. Calendrier
-1. Remise des offres: [Date]
+1. Remise des offres: `une semaine aprés la parution de l'appel d'offres.`
 
-2. Audition des candidats: [Date]
+2. Audition des candidats: `semaine suivante.`
 
-3. Notification du prestataire sélectionné: [Date]
+3. Notification du prestataire sélectionné: `dernier jour ouvré de la semaine d'audition.`
 
 ## 5. Contact
 
 Pour toute information relative à cet appel d'offres, veuillez contacter :
 
-* Nom: Mohamed TOBJI
-
-* Fonction: Director
-
-* Email: mohamed.tobji@lycee-jeanrostand.fr
+1. Fonction: Dirigeant
+    * Nom: Mohamed TOBJI
+    * Email: dirigeant.ciel@lycee-jeanrostand.fr
+2. Fonction: Équipe commerciale
+    * Nom: Mohamed MADANI
+    * Email: commercial.ciel@lycee-jeanrostand.fr
+3. Fonction: Équipe technique
+    * Nom: Djamel BENNOUR
+    * Email: technique.ciel@lycee-jeanrostand.fr
 
 
 
