@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://youtu.be/a0vRj8_Lh-8?si=V7ermoXHiJJivlfH">
-    <img src="https://i.ytimg.com/an_webp/a0vRj8_Lh-8/mqdefault_6s.webp?du=3000&sqp=CL_yirEG&rs=AOn4CLCML11mQoUrI9qS3NB0ZgjKY64jwA" alt="vidéo appel d'offre">
+    <img src="image-video.png" style="max-width: 30%; max-height: 30%">
   </a>
   <p><em>Vidéo : Cahier des charges</em></p>
 </div>
@@ -21,26 +21,32 @@ Le présent  document est un appel d'offres, il a pour objet la sélection d'un 
 Les besoins sont décrits dans la  [vidéo](https://youtu.be/a0vRj8_Lh-8?si=V7ermoXHiJJivlfH)
 .
 
-### Fonctionnalités
-
-**Compatibilité**: La solution doit être compatible avec les formats de documents listés ci-dessus.
+### Fonctionnalités du logiciel de cryptage
 
 **Simplicité d'utilisation**: Le cryptage et le décryptage des documents doivent être simples et rapides pour les utilisateurs, par exemple via une interface web permettant l'accès à celui-ci.
 
-**Sécurité**: La solution doit garantir un niveau de sécurité élevé pour les documents cryptés.
+**Sécurité**: La solution doit permettre de garantir un  niveau de sécurité élèvé pour les documents cryptés, l'algorithme de cryptage doit être de type symétrique, pensé par l'équipe de projet.
+
+**Portabilité**: Développer une solution logicielle multiplateforme qui fonctionne sur tous les systèmes d'exploitation sans nécessiter d'installation supplémentaire, permettant une exécution directe à partir de l'exécutable.
 
 **Confidentialité**: La solution doit garantir la confidentialité des documents cryptés.
 
+### Formation au gestionnaire de mots de passe
+
+**Présentation**: Une présentation orale de démonstration de l'outil `Keepass` sera proposée (durée 5 minutes maximum).
+
+**Documentation**: Une notice d'utilisation sera rédigée (1 page recto verso maximum) ainsi qu'une vidéo (3 minutes maximum)
 
 ## 3. Déroulement de l'appel d'offres
 
 ### 3.1. Phase de remise des offres
 
 Les candidats intéressés par cet appel d'offres devront remettre un dossier de candidature sous 2 jours comprenant les éléments suivants :
-
-* Une présentation de l'entreprise et de ses références en matière de développement de solutions de sécurité et des outils/ressources usitées par le prestataire.
-* Une description détaillée de la solution proposée, en précisant notamment les fonctionnalités offertes par un diagramme de `use case`, le niveau de sécurité garanti et la compatibilité avec les différents formats de documents.
-* Un `proposition tarifaire` ainsi qu'une `planification` du développement et du déploiement de la solution.
+ 
+* Un `proposition tarifaire` 
+* Une `planification` du développement et du déploiement de la solution.
+* La solution de cryptage retenue.
+* Présentation de l'IHM (Figma).
 
 ### 3.2. Phase d'audition
 
@@ -52,7 +58,6 @@ Le comité de sélection sélectionnera le prestataire sur la base des critères
 
 * La qualité de la solution proposée.
 * Le niveau de sécurité garanti.
-* La compatibilité avec les différents formats de documents.
 * La simplicité d'utilisation.
 * Le prix.
 
